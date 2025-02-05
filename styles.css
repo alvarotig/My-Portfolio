@@ -1,0 +1,42 @@
+.subtitle
+{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 0px;     
+}
+
+.name
+{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px; 
+}
+
+.select
+{
+    text-align: center;
+}
+
+.click 
+{
+    color: rgb(64, 195, 255);
+}
+
+.box 
+{
+    padding: 10px;
+    margin: 20px;
+    border: 5px solid black;
+}
+
+.num1
+{
+    height: 360px;
+    width: 820px;
+    float: left;
+}
+
+.num2
+{
+    float: right;
+}
